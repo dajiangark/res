@@ -1,0 +1,9 @@
+{
+  "Act10001": {
+    "pid": "1006,110,119,120,126",
+    "condition": "5"
+  },
+  "ipserverAddr": "MTIwLjI0LjczLjEzNQ==",
+  "switch": "2",
+  "sign": "F57856B9CA230D651433C36488038E58"
+}
